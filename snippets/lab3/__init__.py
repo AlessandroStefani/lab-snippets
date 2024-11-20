@@ -121,3 +121,4 @@ class Server:
 
     def close(self):
         self.__socket.close()
+        
